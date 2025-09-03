@@ -1,0 +1,10 @@
+# ---------------------------------------------------------------------------
+# # Autor: Blas Morales Palacios
+# Correo electrónico: amoralesp98@gmail.com
+# Descripción: La herramienta SNAP estándar alinea todos los puntos al polígono más cercano, 
+#              sin considerar relaciones específicas. 
+#              Este script resuelve esta limitación al iterar sobre cada polígono, 
+#              identificar los puntos asociados mediante un campo de interés y alinear solo esos puntos
+#              a su polígono correspondiente, 
+#              logrando una alineación más precisa y relevante
+# ---------------------------------------------------------------------------
